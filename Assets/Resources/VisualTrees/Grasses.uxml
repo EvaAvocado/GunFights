@@ -1,5 +1,5 @@
 <ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
-    <ui:VisualElement name="Grasses" style="justify-content: flex-end; align-items: stretch; height: 390px; width: 844px; flex-wrap: nowrap; flex-direction: row; white-space: normal; flex-basis: initial;">
+    <ui:VisualElement name="Grasses" style="justify-content: flex-end; align-items: stretch; height: 390px; width: 844px; flex-wrap: nowrap; flex-direction: row; white-space: normal; flex-basis: initial; position: relative;">
         <ui:IMGUIContainer name="Grass1" style="background-image: url(&apos;project://database/Assets/Sprites/UI/Background/Grass.png?fileID=21300000&amp;guid=1898b7d0d6b286149bc5ca862467efb1&amp;type=3#Grass&apos;); width: 497.5px; height: 116px; margin-top: 312px; margin-right: auto; margin-left: -75px; padding-right: 0; -unity-background-image-tint-color: rgb(255, 255, 255);" />
         <ui:IMGUIContainer name="Grass2" style="background-image: url(&apos;project://database/Assets/Sprites/UI/Background/Grass.png?fileID=21300000&amp;guid=1898b7d0d6b286149bc5ca862467efb1&amp;type=3#Grass&apos;); width: 497.5px; height: 116px; margin-top: 281px; margin-right: 0; -unity-slice-right: 0; -unity-background-scale-mode: stretch-to-fill; rotate: 0; scale: -1 1; margin-left: -28px;" />
     </ui:VisualElement>

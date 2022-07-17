@@ -1,5 +1,5 @@
 <ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
-    <ui:VisualElement name="Towers" style="justify-content: flex-start; align-items: stretch; height: 390px; width: 844px; flex-wrap: nowrap; flex-direction: row; white-space: normal; flex-basis: initial;">
+    <ui:VisualElement name="Towers" style="justify-content: flex-start; align-items: stretch; height: 390px; width: 844px; flex-wrap: nowrap; flex-direction: row; white-space: normal; flex-basis: initial; position: relative;">
         <ui:IMGUIContainer name="Tower1" style="background-image: url(&apos;project://database/Assets/Sprites/UI/Background/Tower.png?fileID=21300000&amp;guid=a40966c47e374ae4b9ffa4ca2ed2333f&amp;type=3#Tower&apos;); width: 156.21px; height: 191.75px; margin-top: 198px; margin-right: 0; margin-left: 23px;" />
         <ui:IMGUIContainer name="Tower2" style="background-image: url(&apos;project://database/Assets/Sprites/UI/Background/Tower.png?fileID=21300000&amp;guid=a40966c47e374ae4b9ffa4ca2ed2333f&amp;type=3#Tower&apos;); width: 156.21px; height: 191.75px; margin-top: 198px; margin-right: 0; margin-left: 485.79px;" />
     </ui:VisualElement>

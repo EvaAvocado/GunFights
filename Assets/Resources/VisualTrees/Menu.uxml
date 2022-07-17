@@ -1,6 +1,6 @@
 <ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
     <Style src="project://database/Assets/Resources/Styles/MenuStyles.uss?fileID=7433441132597879392&amp;guid=22ff0e3f87236934da8c73b7c88b26a1&amp;type=3#MenuStyles" />
-    <ui:VisualElement name="All" style="width: 844px; height: 390px; background-image: url(&apos;project://database/Assets/Sprites/UI/Menu/Background.png?fileID=21300000&amp;guid=aff985ac38846c54a8581daf0f996149&amp;type=3#Background&apos;);">
+    <ui:VisualElement name="All" style="width: 844px; height: 390px; background-image: url(&apos;project://database/Assets/Sprites/UI/Menu/Background.png?fileID=21300000&amp;guid=aff985ac38846c54a8581daf0f996149&amp;type=3#Background&apos;); position: relative;">
         <ui:VisualElement name="Menu" style="left: 112px; top: 31px; background-image: url(&apos;project://database/Assets/Sprites/UI/Menu/MenuBackground.png?fileID=2800000&amp;guid=74757533b42d057439ee05c9a9b5c100&amp;type=3#MenuBackground&apos;); width: 619px; height: 329px; align-items: center; justify-content: flex-start;">
             <ui:Label text="Pause" display-tooltip-when-elided="true" name="Pause" class="text-Pause" style="margin-top: 55px;" />
             <ui:Button text="Restart" display-tooltip-when-elided="true" name="text-Restart" class="button" style="margin-top: 60px;" />

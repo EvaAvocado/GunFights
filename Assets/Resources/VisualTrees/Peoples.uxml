@@ -1,6 +1,6 @@
 <ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
-    <ui:VisualElement name="Peoples" style="justify-content: flex-start; align-items: stretch; height: 390px; width: 844px; flex-wrap: nowrap; flex-direction: row; white-space: normal; flex-basis: initial;">
+    <ui:VisualElement name="Peoples" style="justify-content: flex-start; align-items: stretch; height: 390px; width: 844px; flex-wrap: nowrap; flex-direction: row; white-space: normal; flex-basis: initial; position: relative;">
         <ui:IMGUIContainer name="People1" style="background-image: url(&apos;project://database/Assets/Sprites/UI/Background/Woman.png?fileID=21300000&amp;guid=7a8aae195f93ec94982b57c323e6c207&amp;type=3#Woman&apos;); width: 135px; height: 178px; margin-top: 56px; margin-right: 0; margin-left: 45px;" />
-        <ui:IMGUIContainer name="People2" style="background-image: url(&apos;project://database/Assets/Sprites/UI/Background/Man.png?fileID=21300000&amp;guid=8615b50f3e4b5d542ac8d3586f72cdbc&amp;type=3#Man&apos;); width: 171px; height: 183px; margin-top: 56px; margin-right: 0; margin-left: 473px; padding-right: 0; padding-left: 0;" />
+        <ui:IMGUIContainer name="People2" style="background-image: url(&apos;project://database/Assets/Sprites/UI/Background/Man.png?fileID=21300000&amp;guid=f75a5411cf1182945992f5ac9d01ede6&amp;type=3#Man&apos;); width: 171px; height: 183px; margin-top: 56px; margin-right: 0; margin-left: 473px; padding-right: 0; padding-left: 0;" />
     </ui:VisualElement>
 </ui:UXML>
